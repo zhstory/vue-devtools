@@ -82,7 +82,7 @@ Vue.config.devtools = process.env.NODE_ENV === 'development'
 	~~~~
 
 	When using Yarn, just replace `npm` with `yarn`.
-
+asdfasd
 
 ### Common problems and how to fix
 
